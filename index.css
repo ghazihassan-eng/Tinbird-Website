@@ -1,0 +1,111 @@
+#title{
+	background-color:#e84a5f ;
+}
+h1{
+	font-family: 'Modak', cursive; font-size: 70px; color: white;
+}
+#logo{
+	font-family: 'Ubuntu', sans-serif; font-size: 30px; color:white;
+}
+h3,p {font-family: 'Ubuntu'}
+ 
+.container-fluid{
+	padding: 3% 15%;
+}
+.birdpic{
+	height: 300px;
+	width: 300px;
+	transform: rotate(-15deg);
+}
+
+.navbar-brand{
+	font-family: 'Ubuntu';
+	font-weight: bold;
+}
+.nav-item{
+	font-size: 20px;
+
+}
+
+.download-btn{
+	margin: 5% 3% 5% 0%;
+}
+
+#detail{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+
+
+#testimonials{
+	background-color: #e84a5f;
+	
+	color: white;
+}
+
+.testimonials-detail{
+	margin-top: 25px;
+}
+.testimonials-img{
+	height: 250px;
+	width: 250px;
+	border-radius: 100%;
+	margin: 15px;
+}
+.carousel-item{
+	padding: 5% 7%;
+}
+
+#press{
+	background-color: #e84a5f;
+	margin-bottom: 50px;
+}
+.press-img{
+	height: 150px;
+	width: 200px;
+	margin-bottom: 10px;
+}
+
+#pricing{
+	text-align: center;
+}
+
+@media (max-width:989px)
+{
+	.heading-main{
+		text-align: center;
+		
+	}
+	.birdpic{
+		transform: rotate(0);
+	}
+}
+
+#before-footer{
+	background-color: #e84a5f;
+	padding: 5% 7%;
+}
+#footer{
+	padding: 7% 10%;
+}
+.social-icon{
+	margin:5px;
+	margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
